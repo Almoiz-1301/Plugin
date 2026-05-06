@@ -56,3 +56,4 @@ mobile-magic/
 - Build the Checkout page.
 - Add search and filtering functionality.
 # Plugin
+# Plugin
